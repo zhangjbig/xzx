@@ -1,1 +1,23 @@
-The data that support the findings of this study (Multiomics Analysis Reveals the Prognostic Non-tumor Cell Landscape in Glioblastoma Niches) are openly available. The availability of download URL and clinical information for the four datasets were indicated in the original researches including the Samsung Medical Center9,15, The Cancer Genome Atlas (TCGA; RNA sequences)16, REMBRANDT (mRNA microarray)17, and TCGA (mRNA microarray)18. 
+The data that support the findings of this study "Multiomics Analysis Reveals the Prognostic Non-tumor Cell Landscape in Glioblastoma Niches" are openly available. 
+The availability of download URL and clinical information for the four datasets were indicated in the original researches. 
+The data are put in github for the only purpose of replication of the results in the study of "Multiomics Analysis Reveals the Prognostic Non-tumor Cell Landscape in Glioblastoma Niches".
+The distribution of the following data is not allowed. If any of the following data is used, the original research must be cited.
+
+Cohort 1: the Samsung Medical Center 
+Cohort 2: The Cancer Genome Atlas (TCGA; RNA sequences) 
+Cohort 3: REMBRANDT (mRNA microarray)
+Cohort 4: TCGA (mRNA microarray) 
+
+If Cohort 1 is used in your study, the followiing literature must be cited
+Wang, J., Cazzato, E., Ladewig, E., Frattini, V., Rosenbloom, D. I., Zairis, S. et al (2016) Clonal evolution of glioblastoma under therapy. Nat Genet, 48(7):768-776.doi:10.1038/ng.3590
+
+If Cohort 2 is used in your study, the followiing literature must be cited
+Cancer Genome Atlas Research, N. (2008) Comprehensive genomic characterization defines human glioblastoma genes and core pathways. Nature, 455(7216):1061-1068.doi:10.1038/nature07385
+
+If Cohort 3 is used in your study, the following literature must be cited
+Gusev, Y., Bhuvaneshwar, K., Song, L., Zenklusen, J. C., Fine, H., Madhavan, S. (2018) The REMBRANDT study, a large collection of genomic data from brain cancer patients. Sci Data, 5:180158.doi:10.1038/sdata.2018.158
+
+If Cohort 4 is used in your study, the following literature must be cited
+Brennan, C. W., Verhaak, R. G., McKenna, A., Campos, B., Noushmehr, H., Salama, S. R. et al (2013) The somatic genomic landscape of glioblastoma. Cell, 155(2):462-477.doi:10.1016/j.cell.2013.09.034
+
+
