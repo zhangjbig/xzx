@@ -27,3 +27,7 @@ The single-cell gene expression data used in this analysis can be accessed from 
 
 If the single-cell gene expression data is used, the following literature must be cited
 Yuan, J., Levitin, H. M., Frattini, V., Bush, E. C., Boyett, D. M., Samanamud, J. et al (2018) Single-cell transcriptome analysis of lineage diversity in high-grade glioma. Genome Med, 10(1):57.doi:10.1186/s13073-018-0567-9
+
+IHC staining:
+The original images of IHC staining of 12 GBMs includes six short-term-survival and six long-term-survival patients. The study was conducted according to the guidelines of the Declaration of Helskinki,
+and approved by the Beijing Tiantan Hospital institutional review board. Informed consent was obtained from each patient involved in the study.
