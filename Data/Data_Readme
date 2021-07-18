@@ -3,10 +3,10 @@ The availability of download URL and clinical information for the four datasets 
 The data are put in github for the only purpose of replication of the results in the study of "Multiomics Analysis Reveals the Prognostic Non-tumor Cell Landscape in Glioblastoma Niches".
 The distribution of the following data is not allowed. If any of the following data is used, the original research must be cited.
 
-Cohort 1: the Samsung Medical Center 
-Cohort 2: The Cancer Genome Atlas (TCGA; RNA sequences) 
-Cohort 3: REMBRANDT (mRNA microarray)
-Cohort 4: TCGA (mRNA microarray) 
+Cohort 1 (a total of 75 GBMs): the Samsung Medical Center 
+Cohort 2 (a total of 152 GBMs): The Cancer Genome Atlas (TCGA; RNA sequences) 
+Cohort 3 (a total of 181 GBMs): REMBRANDT (mRNA microarray)
+Cohort 4 (a total of 559 GBMs): TCGA (mRNA microarray) 
 
 If Cohort 1 is used in your study, the followiing literature must be cited
 Wang, J., Cazzato, E., Ladewig, E., Frattini, V., Rosenbloom, D. I., Zairis, S. et al (2016) Clonal evolution of glioblastoma under therapy. Nat Genet, 48(7):768-776.doi:10.1038/ng.3590
@@ -21,6 +21,9 @@ If Cohort 4 is used in your study, the following literature must be cited
 Brennan, C. W., Verhaak, R. G., McKenna, A., Campos, B., Noushmehr, H., Salama, S. R. et al (2013) The somatic genomic landscape of glioblastoma. Cell, 155(2):462-477.doi:10.1016/j.cell.2013.09.034
 
 
+
+scRNAseq data: 
 The single-cell gene expression data used in this analysis can be accessed from the Gene Expression Omnibus (accession: GSE103224). 
+
 If the single-cell gene expression data is used, the following literature must be cited
 Yuan, J., Levitin, H. M., Frattini, V., Bush, E. C., Boyett, D. M., Samanamud, J. et al (2018) Single-cell transcriptome analysis of lineage diversity in high-grade glioma. Genome Med, 10(1):57.doi:10.1186/s13073-018-0567-9
