@@ -3,10 +3,10 @@ The availability of download URL and clinical information for the dataset was in
 The data are put in github for the only purpose of replication of the results in the study of "Multiomics Analysis Reveals the Prognostic Non-tumor Cell Landscape in Glioblastoma Niches".
 The distribution of the following data is not allowed. If any of the following data is used, the original research must be cited.
 
-Cohort_2 consists of six parts. 
+Cohort_2 consists of two parts. 
 
-The number of samples of the six parts combined is 152 GBM samples
+The number of samples of the two parts combined is 152 GBM samples
 
-If Cohort 4 is used in your study, the following literature must be cited
-Brennan, C. W., Verhaak, R. G., McKenna, A., Campos, B., Noushmehr, H., Salama, S. R. et al (2013) The somatic genomic landscape of glioblastoma. Cell, 155(2):462-477.doi:10.1016/j.cell.2013.09.034
+If Cohort 2 is used in your study, the followiing literature must be cited
+Cancer Genome Atlas Research, N. (2008) Comprehensive genomic characterization defines human glioblastoma genes and core pathways. Nature, 455(7216):1061-1068.doi:10.1038/nature07385
 
