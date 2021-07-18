@@ -1,0 +1,5 @@
+scRNAseq data: 
+The single-cell gene expression data used in this analysis can be accessed from the Gene Expression Omnibus (accession: GSE103224). 
+
+If the single-cell gene expression data is used, the following literature must be cited
+Yuan, J., Levitin, H. M., Frattini, V., Bush, E. C., Boyett, D. M., Samanamud, J. et al (2018) Single-cell transcriptome analysis of lineage diversity in high-grade glioma. Genome Med, 10(1):57.doi:10.1186/s13073-018-0567-9
