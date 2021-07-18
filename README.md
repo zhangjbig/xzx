@@ -1,5 +1,5 @@
 #  xzx
-These codes are to reprodunce the results we obtained in our paper entitled as 'Landscape of glioblastoma niches reveals the prognostic effects of tumor-infiltrating cells'.
+These codes are to reprodunce the results we obtained in our paper entitled as 'Multiomics analysis reveals the prognostic non-tumor cell landscape in glioblastoma niches'.
 
 ######   To perform clustering and survival analysis upon gene expression profiles
 
