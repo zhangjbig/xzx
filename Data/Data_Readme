@@ -3,10 +3,10 @@ The availability of download URL for all the datasets were indicated in the orig
 The data are put in github for the only purpose of replication of the results in the study of "Multiomics Analysis Reveals the Prognostic Non-tumor Cell Landscape in Glioblastoma Niches".
 The distribution of the following data is not allowed. If any of the following data is used, the original research must be cited.
 
-Cohort 1 (a total of 75 GBMs): the Samsung Medical Center 
-Cohort 2 (a total of 152 GBMs): The Cancer Genome Atlas (TCGA; RNA sequences) 
-Cohort 3 (a total of 181 GBMs): REMBRANDT (mRNA microarray)
-Cohort 4 (a total of 559 GBMs): TCGA (mRNA microarray) 
+Cohort 1 (a total of 75 GBMs): Wang et al.,2016;Zhang et al.,2019
+Cohort 2 (a total of 152 GBMs): Cancer Genome Atlas Research,2008 
+Cohort 3 (a total of 181 GBMs): Gusev et al.,2018
+Cohort 4 (a total of 559 GBMs): Brennan et al.,2013
 
 If Cohort 1 is used in your study, the followiing literature must be cited
 Wang, J., Cazzato, E., Ladewig, E., Frattini, V., Rosenbloom, D. I., Zairis, S. et al (2016) Clonal evolution of glioblastoma under therapy. Nat Genet, 48(7):768-776.doi:10.1038/ng.3590
